@@ -11,3 +11,10 @@ print("nombre: Leonardo")
 print("estoy aprendiendo usar print")
 print("nombre: neytan")
 print("estoy aprendiendo a usar print")
+usuario = "Ramiro"
+tiene_permiso = True
+
+if tiene_permiso:
+    print("Puedes usar el repositorio")
+else:
+    print("No tienes permiso para usar el repositorio")
