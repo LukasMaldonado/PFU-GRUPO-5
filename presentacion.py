@@ -17,3 +17,4 @@ if tiene_permiso:
     print("Puedes usar el repositorio")
 else:
     print("No tienes permiso para usar el repositorio")
+print("el ultimo del dia")
